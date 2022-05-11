@@ -1,0 +1,104 @@
+html {margin: 0; height: 100%; overflow: hidden}
+
+.updiv {
+    height: 60px;
+    width: 105%;
+    background: linear-gradient(110deg,#d02f7a 30%, #de3769 70%); 
+    position: relative; left:-8px; top: -9px;
+}
+.linkupdiv {
+    text-decoration: none; color:white;
+}
+.instagramupdiv {
+    color:white; font-weight: 400; position: relative; left: 10px; top: 10px;
+}
+.txtupdiv {
+    color:white; font-weight: 400; position: relative; left: 10px; top: -6px; font-size: 15px;
+}
+.buttonupdiv {
+    border: 2px solid white; 
+    height: 40px; 
+    width: 60px; 
+    position: relative; left: 79%; top:-58px; 
+    background-color: #de3769; 
+    color:white; 
+    font-weight: 500; 
+    font-size: 15px; 
+    cursor: pointer;
+}
+.imgmo {
+  position: relative; left: 500px; top: 130px; height: 0px; width: 0px; display: block;
+}
+.container1 {
+    height: 280px;
+    border: 1px solid grey;
+    width: 85%;
+    position: relative; left: 20px; top: 20px;
+    
+    
+}
+
+.instaimg {
+    width: 250px;
+
+}
+
+input[type="text"]{
+    width: 75%;
+    height: 35px;
+    border-radius: 3px;
+    border: 1px solid grey;
+    background-color: whitesmoke;
+}
+input[type="password"]{
+    width: 75%;
+    height: 35px;
+    border-radius: 3px;
+    border: 1px solid grey;
+    background-color: whitesmoke;
+    margin-top: 10px;
+}
+
+input[type="submit"]{
+    width: 75%;
+    height: 35px;
+    border-radius: 3px;
+    border: 1px solid grey;
+    background-color: #3897f0;
+    margin-top: 10px;
+    color:white;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.fp {
+    color:black; text-decoration: none; margin-top: 13px;
+
+}
+.container2 {
+border: 1px solid grey;
+width: 85%;
+height: 60px;
+position: relative; left: 20px; top: 30px;
+}
+
+.img1 {
+    height: 50px;
+    width: 110px;
+    position: relative; top: 20px; left: 10px;
+    cursor: pointer;
+}
+
+.img2 {
+    height: 50px;
+    width: 110px;
+    position: relative; top: 20px; left: 60px;
+cursor: pointer;
+}
+.img3 {
+    height: 50px;
+    width: 110px;
+    cursor: pointer;
+
+}
+
